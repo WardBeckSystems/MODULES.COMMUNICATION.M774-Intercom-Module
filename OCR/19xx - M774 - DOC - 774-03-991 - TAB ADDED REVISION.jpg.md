@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 79 in 64 lines: 250 · E1.100 · DIA · 800 · 4130 · ExTRuDE HOLE TAP · 187 · 14-40 UNC ~2PLACES · 500 · 710 · 4.00 · 1.00
 - **Title block:** (278, 11)–(430, 78) mm: 4/81 · 102 TAB · ADDED · ISSUE DATE · REVISION · APP: · WBS WARD-BECK SYSTEMS · DRN: · ENG · Mru 4181 · M774 · HEATSINK · APP · Rai · SCALE 1: 1 · 774-03-001 · ISSUE · I.015 · XXX 1.005
 
-Every curve, box, word and wire group: [19xx - M774 - DOC - 774-03-991 - TAB ADDED REVISION (traced).json](../MECHANICAL/19xx%20-%20M774%20-%20DOC%20-%20774-03-991%20-%20TAB%20ADDED%20REVISION%20(traced).json) (the CAD file: `19xx - M774 - DOC - 774-03-991 - TAB ADDED REVISION (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M774 - DOC - 774-03-991 - TAB ADDED REVISION (traced).json](../MECHANICAL/19xx%20-%20M774%20-%20DOC%20-%20774-03-991%20-%20TAB%20ADDED%20REVISION%20%28traced%29.json) (the CAD file: `19xx - M774 - DOC - 774-03-991 - TAB ADDED REVISION (traced).dxf`).
 
 ## Full text
 

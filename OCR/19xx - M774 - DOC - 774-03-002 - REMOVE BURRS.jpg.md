@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 61 in 50 lines: 4.00 · 1.45 · F.OO · ~128 DIA. ~ 2PLACES · 1.45 · 1.100- · .128 DIA.~2 PLACES · OO · 1.00 · 2.00 · 062 · TyP
 - **Title block:** (278, 5)–(431, 72) mm: Jne8i · '128 DiA NK_SSK_Holis 61 · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: / Madons_ · ENG. MpW · M774 · CKD · HEATSINKS · APP Qml · SCALE 1:1 · ISSUE · 015 · 774-03-002 · AX 1.005
 
-Every curve, box, word and wire group: [19xx - M774 - DOC - 774-03-002 - REMOVE BURRS (traced).json](../MECHANICAL/19xx%20-%20M774%20-%20DOC%20-%20774-03-002%20-%20REMOVE%20BURRS%20(traced).json) (the CAD file: `19xx - M774 - DOC - 774-03-002 - REMOVE BURRS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M774 - DOC - 774-03-002 - REMOVE BURRS (traced).json](../MECHANICAL/19xx%20-%20M774%20-%20DOC%20-%20774-03-002%20-%20REMOVE%20BURRS%20%28traced%29.json) (the CAD file: `19xx - M774 - DOC - 774-03-002 - REMOVE BURRS (traced).dxf`).
 
 ## Full text
 
