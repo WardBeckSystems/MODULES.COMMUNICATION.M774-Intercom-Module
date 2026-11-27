@@ -21,6 +21,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1S8O_-TtFWle2JngAKDQyUzNHkskcdSyD/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1S8O_-TtFWle2JngAKDQyUzNHkskcdSyD" width="240" alt="19xx - M774 - DOC - 774-03-002 - REMOVE BURRS.jpg"></a><br><sub>19xx - M774 - DOC - 774-03-002 - REMOVE BURRS</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1H9EdCp78i7uL6iJxr_3vQnEEJgDHEpf7/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1H9EdCp78i7uL6iJxr_3vQnEEJgDHEpf7" width="240" alt="19xx - M774 - DOC - 774-03-991 - TAB ADDED REVISION.jpg"></a><br><sub>19xx - M774 - DOC - 774-03-991 - TAB ADDED REVISION</sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M774.stl`](MECHANICAL/M774.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M774)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M774 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M774.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
