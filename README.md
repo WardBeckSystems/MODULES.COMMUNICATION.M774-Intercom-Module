@@ -1,6 +1,6 @@
 # M774 Intercom Module · Communication
 
-Ward-Beck Systems M774, 1982|15. Wiki page: [M774 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M774.html)
+Ward-Beck Systems M774, 1982|15. Wiki page: [M774 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M774-Intercom-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

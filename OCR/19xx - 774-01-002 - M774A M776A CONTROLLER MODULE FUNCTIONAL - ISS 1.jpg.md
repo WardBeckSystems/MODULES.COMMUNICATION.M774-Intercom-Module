@@ -1,5 +1,5 @@
 # 19xx - 774-01-002 - M774A M776A CONTROLLER MODULE FUNCTIONAL - ISS 1.jpg
-Wiki page: [M774](../../../../PAGES/M774.md)
+Wiki page: [M774](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 1983 - 774-03-002 - HEATSINKS - DRN P. Mahoney - ENG MRW - ISS 3.jpg
-Wiki page: [M774](../../../../PAGES/M774.md)
+Wiki page: [M774](../)
 
 
 - **Year:** 1983 (title block date)
